@@ -1,0 +1,155 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: whitesmoke;
+
+  font-family: "Inter", sans-serif;
+  font-family: "Kablammo", cursive;
+  font-family: "Nunito Sans", sans-serif;
+  font-family: "Roboto", sans-serif;
+}
+
+/* *{
+
+border: 2px solid red;
+
+} */
+
+#root {
+  min-width: 330px;
+  max-width: 330px;
+  min-height: 95vh;
+  position: relative;
+
+  background-color: #21222a;
+  /* box-shadow: 4px 4px 10px; */
+  border: 2px solid #21222a;
+  border-radius: 10px;
+  box-shadow: 10px 10px 100px gray;
+}
+
+* {
+  box-sizing: border-box;
+  /* border: 2px solid red; */
+}
+
+.header-image {
+  height: 30vh;
+  background-color: white;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  /* border: 2px solid green; */
+  background-image: url("https://avatars.githubusercontent.com/u/132889393?s=400&u=097bc888de8e2d3c073f697f7de3a867b7948339&v=4");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  color: white;
+  padding: 20px;
+}
+
+.header h2,
+p {
+  margin: 0;
+}
+
+.btn {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+
+  margin: 5px;
+}
+
+button {
+  padding: 10px 20px;
+}
+
+.main {
+  color: white;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 0 20px;
+  margin: 10px 0px;
+}
+
+h2 {
+  margin: 10px 0px;
+}
+
+
+
+.footer {
+  display: flex;
+  justify-content: space-around;
+  padding: 10px 0px;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: whitesmoke;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.main-container {
+  margin-bottom: 75px;
+}
+
+.footer {
+  margin: 0;
+}
+
+.email {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-evenly;
+  gap: 20px;
+  background-color: white;
+  border: none;
+  border-radius: 4px;
+  color: black;
+  opacity: 0.9;
+}
+
+.linkedin {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-evenly;
+  gap: 20px;
+  background-color: #0a66c2;
+  border: none;
+  border-radius: 4px;
+  color: white;
+  opacity: 0.8;
+}
+
+.header-content {
+  /* 
+border: 2px solid red; */
+  margin: 20px 0px;
+  letter-spacing: 2px;
+}
+
+.title {
+  color: goldenrod;
+}
+
+button:hover {
+  cursor: pointer;
+}
