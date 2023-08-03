@@ -1,3 +1,8 @@
+#Screenshot
+<img src='images/digital card.png' width='100%'>
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -7,7 +12,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 
-<img src='images/digital card.png' width='100%'>
+
 
 ### `npm start`
 
