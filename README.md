@@ -1,3 +1,5 @@
+# Scrimba - Digital Business Card solution
+
 ## Screenshot
 <img src='images/digital card.png' width='100%'>
 
