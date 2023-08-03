@@ -1,7 +1,7 @@
 # Scrimba - Digital Business Card solution
 <p>This is a solution to the <a href='https://scrimba.com/learn/learnjavascript/' >Digital Business Card solo project on Scrimba</a>. Scrimba helps you improve your coding skills by building realistic projects.</p>
 
-#Table of Content
+## Table of Content
 
 
 
