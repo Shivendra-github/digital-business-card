@@ -1,6 +1,20 @@
 ## Screenshot
 <img src='images/digital card.png' width='100%'>
 
+## Build with
+<ul>
+  <li>Semantic HTML5 markup</li>
+   <li>CSS custom properties</li>
+   <li>React.JS</li>
+   <li>Flexbox</li>
+  
+
+
+
+
+
+</ul>
+
 
 
 # Getting Started with Create React App
