@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 
-<img src='images/digital card.png' width=100% height='400px'>
+<img src='images/digital card.png' width=100% height='600px'>
 
 ### `npm start`
 
