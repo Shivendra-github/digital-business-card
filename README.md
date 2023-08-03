@@ -1,5 +1,5 @@
 # Scrimba - Digital Business Card solution
-## This is a solution to the Digital Business Card solo project on Scrimba. Scrimba helps you improve your coding skills by building realistic projects.
+<p>This is a solution to the Digital Business Card solo project on Scrimba. Scrimba helps you improve your coding skills by building realistic projects.</p>
 
 ## Screenshot
 <img src='images/digital card.png' width='100%'>
