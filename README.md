@@ -5,6 +5,21 @@
 <ul>
 
 <li>Build from scratch!</li>
+<li>Fill in your own information</li>
+<li>Separate compenents for:</li>
+
+<ul>
+
+<li>Info (photo, name, buttons, etc.)</li>
+<li>About</li>
+<li>Interests</li>
+<li>Footer (social icons)</li>
+
+
+
+  
+</ul>
+
 
   
 </ul>
