@@ -12,7 +12,7 @@
 
 
 ## Screenshot
-<img src='images/digital card.png' width='100%'>
+<img src='https://i.ibb.co/R2wM2rL/digital-card.png' width='100%'>
 
 ## Build with
 <ul>
