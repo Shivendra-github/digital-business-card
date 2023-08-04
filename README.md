@@ -65,4 +65,4 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ## Author
-shivendra - <a href='https://www.linkedin.com/in/shivendra-pratap-singh-123408233/'>LinkedIn</a>
+Shivendra - <a href='https://www.linkedin.com/in/shivendra-pratap-singh-123408233/'>LinkedIn</a>
